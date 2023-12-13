@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jithunmadhav
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN stack
+- connect with me @ http://jithunmadhav.netlify.app
   
 
 <!---
